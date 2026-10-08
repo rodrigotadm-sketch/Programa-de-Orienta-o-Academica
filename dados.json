@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "titulo": "Programa de Orientação Acadêmica",
+    "instituicao": "Universidade Federal do Paraná",
+    "unidade": "Coordenação do Curso de Biomedicina",
+    "descricao": "Orientação acadêmica, acolhimento e acompanhamento da trajetória estudantil no curso de Biomedicina da UFPR.",
+    "versao": "2.0",
+    "atualizacao": "2026-10-08"
+  },
+  "hero": {
+    "sobretitulo": "Coordenação do Curso de Biomedicina · UFPR",
+    "titulo": "Programa de Orientação Acadêmica",
+    "chamada": "Orientação, acolhimento e acompanhamento em cada etapa da sua formação.",
+    "descricao": "Um programa de apoio para planejar sua trajetória, compreender as normas acadêmicas e encontrar caminhos para superar dificuldades.",
+    "botao": {
+      "texto": "Como buscar orientação",
+      "destino": "#orientacao"
+    }
+  },
+  "introducao": {
+    "etiqueta": "Sobre o programa",
+    "titulo": "Sua trajetória acadêmica, acompanhada de perto",
+    "paragrafos": [
+      "O Programa de Orientação Acadêmica do Curso de Biomedicina da UFPR busca identificar preventivamente dificuldades no processo de ensino-aprendizagem e construir alternativas para sua superação, contribuindo para reduzir a retenção e a evasão.",
+      "A orientação abrange o conhecimento das normas universitárias, o planejamento do percurso formativo, o acompanhamento do desempenho acadêmico e o desenvolvimento da autonomia estudantil."
+    ]
+  },
+  "beneficios": {
+    "etiqueta": "O que oferecemos",
+    "titulo": "Como o programa pode ajudar?",
+    "itens": [
+      {
+        "icone": "calendar",
+        "titulo": "Planejamento acadêmico",
+        "texto": "Orientação sobre matriz curricular, disciplinas obrigatórias e optativas, atividades formativas e escolhas ao longo do curso."
+      },
+      {
+        "icone": "chart",
+        "titulo": "Acompanhamento do desempenho",
+        "texto": "Identificação de dificuldades, acompanhamento do rendimento e construção conjunta de planos de estudos."
+      },
+      {
+        "icone": "book",
+        "titulo": "Normas e procedimentos",
+        "texto": "Orientações sobre normas da UFPR e alternativas como cancelamento de disciplina, aproveitamento de conhecimentos e trancamento de curso."
+      },
+      {
+        "icone": "spark",
+        "titulo": "Oportunidades de formação",
+        "texto": "Informações sobre pesquisa, extensão, iniciação à docência e eventos científicos."
+      },
+      {
+        "icone": "heart",
+        "titulo": "Acolhimento e encaminhamento",
+        "texto": "Indicação, quando necessária, de serviços institucionais de apoio pedagógico, psicológico, social e de saúde."
+      },
+      {
+        "icone": "compass",
+        "titulo": "Autonomia estudantil",
+        "texto": "Apoio à tomada de decisões e à busca de soluções para os desafios do cotidiano universitário."
+      }
+    ]
+  },
+  "publico": {
+    "etiqueta": "Público-alvo",
+    "titulo": "Para quem é o programa?",
+    "paragrafos": [
+      "Estudantes do Curso de Biomedicina da UFPR, desde o ingresso na graduação.",
+      "O acompanhamento considera as necessidades identificadas e pode ser mantido até a conclusão do curso."
+    ]
+  },
+  "funcionamento": {
+    "etiqueta": "Como funciona",
+    "titulo": "Orientação individual e coletiva",
+    "descricao": "A Comissão de Orientação Acadêmica (COA), designada pelo Colegiado do Curso, planeja e acompanha as ações de tutoria.",
+    "passos": [
+      {
+        "titulo": "Acolhimento",
+        "texto": "Primeiro contato entre tutoria e estudantes ingressantes."
+      },
+      {
+        "titulo": "Encontros",
+        "texto": "Reuniões individuais ou em grupo, palestras e outras ações informativas."
+      },
+      {
+        "titulo": "Acompanhamento",
+        "texto": "Análise do desempenho e, quando necessário, elaboração conjunta de plano de estudos e encaminhamentos."
+      }
+    ],
+    "observacao": "O regulamento recomenda pelo menos dois encontros com a tutoria por semestre, conforme cronograma divulgado pela COA."
+  },
+  "diferenciais": {
+    "etiqueta": "Compromisso com a formação",
+    "titulo": "Acompanhamento integrado à vida universitária",
+    "itens": [
+      "Apoio desde o ingresso no curso",
+      "Orientação conforme as necessidades acadêmicas",
+      "Construção conjunta de alternativas e planos de estudos",
+      "Acompanhamento preventivo de dificuldades",
+      "Articulação com serviços institucionais da UFPR"
+    ]
+  },
+  "comissao": {
+    "titulo": "Comissão de Orientação Acadêmica (COA)",
+    "descricao": "Responsável pela elaboração, implantação, acompanhamento e avaliação do programa. O regulamento prevê designação pelo Colegiado de no mínimo três docentes, com até 20 estudantes por tutor.",
+    "integrantes": [],
+    "aviso": "Composição atual da COA e horários de atendimento: informações a confirmar com a Coordenação."
+  },
+  "orientacao": {
+    "etiqueta": "Próximos passos",
+    "titulo": "Precisa de orientação acadêmica?",
+    "descricao": "Procure a Coordenação do Curso de Biomedicina para saber como contatar sua tutoria e consultar o cronograma de acompanhamento.",
+    "botao": {
+      "texto": "Contato da Coordenação",
+      "url": "https://bio.ufpr.br/biomedicina/contato/"
+    },
+    "nota": "O regulamento não informa formulário eletrônico de inscrição nem horários fixos de atendimento."
+  },
+  "documentos": {
+    "titulo": "Regulamentação e documentos",
+    "descricao": "O regulamento do programa descreve objetivos, atribuições da COA e dos estudantes, critérios de acompanhamento e modelos de registro. Faz referência à Resolução CEPE 95-A/15, à Instrução Normativa Conjunta 02-A/16 PROGRAD/PRAE e ao Projeto Pedagógico do Curso.",
+    "itens": [],
+    "aviso": "O PDF fornecido apresenta o número da instrução normativa em branco. Confirmar a versão aprovada e inserir seu link institucional antes de divulgar o regulamento como vigente."
+  },
+  "faq": {
+    "titulo": "Perguntas frequentes",
+    "itens": [
+      {
+        "pergunta": "Quem pode receber orientação acadêmica?",
+        "resposta": "Estudantes de Biomedicina da UFPR, desde o ingresso, conforme as necessidades identificadas ao longo do curso."
+      },
+      {
+        "pergunta": "Como acontecem os encontros?",
+        "resposta": "A tutoria pode ocorrer em reuniões individuais ou coletivas. A COA divulga o cronograma no início de cada semestre."
+      },
+      {
+        "pergunta": "Quantos encontros são recomendados?",
+        "resposta": "O regulamento recomenda pelo menos dois encontros com a tutoria por semestre."
+      },
+      {
+        "pergunta": "O programa pode auxiliar no planejamento de disciplinas?",
+        "resposta": "Sim. A tutoria pode orientar a organização curricular e construir, em conjunto com o estudante, um plano de estudos."
+      },
+      {
+        "pergunta": "Como solicitar mudança de tutor?",
+        "resposta": "O regulamento prevê requerimento escrito à Coordenação do Curso, para análise e parecer."
+      }
+    ]
+  },
+  "links": {
+    "inicio": "https://bio.ufpr.br/biomedicina/",
+    "contato": "https://bio.ufpr.br/biomedicina/contato/"
+  }
+}
