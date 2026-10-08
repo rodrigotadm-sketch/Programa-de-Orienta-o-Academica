@@ -119,7 +119,7 @@
   "documentos": {
     "titulo": "Regulamentação e documentos",
     "descricao": "O regulamento do programa descreve objetivos, atribuições da COA e dos estudantes, critérios de acompanhamento e modelos de registro. Faz referência à Resolução CEPE 95-A/15, à Instrução Normativa Conjunta 02-A/16 PROGRAD/PRAE e ao Projeto Pedagógico do Curso.",
-    "itens": [],
+    "itens": ["https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf"],
     "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf"
   },
   "faq": {
@@ -149,6 +149,6 @@
   },
   "links": {
     "inicio": "https://bio.ufpr.br/biomedicina/",
-    "contato": "https://bio.ufpr.br/biomedicina/contato/"
+    "contato": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf"
   }
 }
