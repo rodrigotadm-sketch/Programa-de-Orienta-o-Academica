@@ -1,4 +1,36 @@
-},
+{
+  "meta": {
+    "titulo": "Programa de Orientação Acadêmica",
+    "instituicao": "Universidade Federal do Paraná",
+    "unidade": "Coordenação do Curso de Biomedicina",
+    "versao": "7.0",
+    "atualizacao": "2026-10-28"
+  },
+  "hero": {
+    "sobretitulo": "UFPR · Curso de Biomedicina",
+    "titulo": "Programa de Orientação Acadêmica",
+    "chamada": "Orientação, acolhimento e acompanhamento ao longo da sua formação.",
+    "descricao": "Informações sobre tutoria, regulamentos, formulários e procedimentos de registro e acompanhamento."
+  },
+  "sobre": {
+    "titulo": "Sobre o programa",
+    "paragrafos": [
+      "O Programa de Orientação Acadêmica (POA) apoia estudantes na organização do percurso formativo, no acompanhamento do desempenho e na identificação de dificuldades acadêmicas.",
+      "As ações de orientação são desenvolvidas pelos professores tutores, com apoio da Coordenação, da Comissão de Orientação Acadêmica e da Secretaria.",
+      "O acompanhamento individual deve preservar a confidencialidade dos registros e respeitar as regras institucionais de acesso ao SEI."
+    ]
+  },
+  "normas": [
+    {
+      "titulo": "Resolução nº 95-A/15-CEPE",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Programa-de-Orientacao-Academica-dos-95-15-CEPE.pdf",
+      "tipo": "PDF"
+    },
+    {
+      "titulo": "Regulamento do POA do Curso de Biomedicina",
+      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Biomedicina-POA.pdf",
+      "tipo": "PDF"
+    },
     {
       "titulo": "Regulamento complementar anteriormente divulgado",
       "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf",
