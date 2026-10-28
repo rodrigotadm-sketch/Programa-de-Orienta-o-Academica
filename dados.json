@@ -1,257 +1,29 @@
 {
-  "meta": {
-    "titulo": "Programa de Orientação Acadêmica",
-    "instituicao": "Universidade Federal do Paraná",
-    "unidade": "Coordenação do Curso de Biomedicina",
-    "versao": "4.0",
-    "atualizacao": "2026-10-28"
-  },
-  "hero": {
-    "sobretitulo": "UFPR · Curso de Biomedicina",
-    "titulo": "Programa de Orientação Acadêmica",
-    "chamada": "Orientação, acolhimento e acompanhamento ao longo da sua formação.",
-    "descricao": "Consulte normas, formulários editáveis e procedimentos de registro e acompanhamento da tutoria acadêmica."
-  },
-  "regulamento": {
-    "titulo": "Regulamento do Programa de Orientação Acadêmica da Biomedicina",
-    "descricao": "Regulamento do POA do Curso de Biomedicina.",
-    "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Biomedicina-POA.pdf",
-    "textoBotao": "Acessar regulamento do curso (PDF)",
-    "observacao": "Consultar também a resolução CEPE e as orientações da PROGRAP."
-  },
-  "sobre": {
-    "titulo": "Sobre o programa",
-    "paragrafos": [
-      "O Programa de Orientação Acadêmica busca orientar estudantes em sua trajetória universitária, identificar obstáculos ao processo de ensino-aprendizagem e contribuir para a redução da retenção e da evasão.",
-      "As ações são acompanhadas pela Comissão de Orientação Acadêmica (COA), designada pelo Colegiado do Curso."
-    ]
-  },
-  "objetivos": [
-    {
-      "titulo": "Orientação curricular",
-      "descricao": "Apoio na compreensão da matriz curricular, do projeto pedagógico e das escolhas acadêmicas."
-    },
-    {
-      "titulo": "Acompanhamento do desempenho",
-      "descricao": "Orientação sobre desempenho acadêmico, dificuldades e alternativas para continuidade dos estudos."
-    },
-    {
-      "titulo": "Autonomia estudantil",
-      "descricao": "Incentivo à busca de soluções e ao conhecimento das normas e serviços da UFPR."
-    }
+  "meta":{"titulo":"Programa de Orientação Acadêmica","instituicao":"Universidade Federal do Paraná","unidade":"Coordenação do Curso de Biomedicina","versao":"5.0","atualizacao":"2026-10-28"},
+  "hero":{"titulo":"Programa de Orientação Acadêmica","chamada":"Orientação, acolhimento e acompanhamento ao longo da formação em Biomedicina.","descricao":"Informações oficiais, formulários editáveis e fluxo de registro e acompanhamento no SEI."},
+  "sobre":{"titulo":"Sobre o programa","paragrafos":["O POA orienta os estudantes em sua trajetória universitária, identifica obstáculos à aprendizagem e contribui para reduzir retenção e evasão.","As ações são acompanhadas pela Comissão de Orientação Acadêmica (COA), designada pelo Colegiado do Curso."]},
+  "normas":[
+    {"titulo":"Resolução nº 95-A/15-CEPE","descricao":"Norma institucional do Programa de Orientação Acadêmica.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Programa-de-Orientacao-Academica-dos-95-15-CEPE.pdf","tipo":"PDF"},
+    {"titulo":"Regulamento do POA — Biomedicina","descricao":"Regras específicas do curso.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Biomedicina-POA.pdf","tipo":"PDF"},
+    {"titulo":"Orientações da PROGRAP","descricao":"Página institucional com informações sobre o POA.","url":"https://prograp.ufpr.br/copeg/programa-de-orientacao-academica-poa/","tipo":"Página externa"}
   ],
-  "funcionamento": {
-    "titulo": "Como funciona",
-    "etapas": [
-      {
-        "titulo": "Contato com a tutoria",
-        "descricao": "A COA promove o primeiro contato entre tutores e estudantes ingressantes."
-      },
-      {
-        "titulo": "Encontros de orientação",
-        "descricao": "Podem ocorrer individualmente ou em grupo. O regulamento anteriormente divulgado recomenda ao menos duas reuniões por semestre; conferir a redação vigente."
-      },
-      {
-        "titulo": "Acompanhamento e encaminhamentos",
-        "descricao": "A tutoria acompanha o percurso acadêmico e, quando necessário, orienta encaminhamentos às unidades competentes."
-      }
-    ]
-  },
-  "orientacao": {
-    "titulo": "Como buscar orientação",
-    "descricao": "Para dúvidas sobre o programa, identificação da tutoria ou solicitação de substituição, procure a Coordenação do Curso de Biomedicina pelos canais institucionais.",
-    "textoBotao": "Acessar o site da Coordenação",
-    "url": "https://bio.ufpr.br/biomedicina/contato/"
-  },
-  "documentos": [
-    {
-      "id": "regulamento-curso",
-      "titulo": "Regulamento do POA — Biomedicina",
-      "descricao": "Normas específicas do programa no curso.",
-      "tipo": "PDF",
-      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Biomedicina-POA.pdf"
-    },
-    {
-      "id": "resolucao-cepe",
-      "titulo": "Resolução nº 95-A/15-CEPE",
-      "descricao": "Norma institucional sobre o Programa de Orientação Acadêmica.",
-      "tipo": "PDF",
-      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/Programa-de-Orientacao-Academica-dos-95-15-CEPE.pdf"
-    },
-    {
-      "id": "regulamento-anterior",
-      "titulo": "Regulamento e anexos — versão anteriormente publicada",
-      "descricao": "Documento já disponibilizado na versão anterior da página.",
-      "tipo": "PDF",
-      "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/PROGRAMA-DE-ORIENTACAO-ACADEMICA.pdf"
-    },
-    {
-      "id": "prograp",
-      "titulo": "POA — PROGRAP/UFPR",
-      "descricao": "Página institucional com informações e orientações sobre o programa.",
-      "tipo": "Página externa",
-      "url": "https://prograp.ufpr.br/copeg/programa-de-orientacao-academica-poa/"
-    }
+  "formularios":[
+    {"titulo":"01 — Ficha de Encaminhamento","descricao":"Para encaminhamentos a serviços ou unidades competentes.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/01_Ficha_de_Encaminhamento.docx"},
+    {"titulo":"02 — Relatório de Acompanhamento","descricao":"Registro do atendimento e das orientações acordadas.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/02_Relatorio_de_Acompanhamento.docx"},
+    {"titulo":"03 — Relatório Semestral","descricao":"Consolidação do acompanhamento ao final de cada semestre.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/03_Relatorio_Semestral.docx"},
+    {"titulo":"04 — Relatório de Acompanhamento (modelo 04)","descricao":"Modelo adicional disponibilizado pelo curso; confirmar aplicação específica antes do preenchimento.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/04_Relatorio_de_Acompanhamento.docx"},
+    {"titulo":"05 — Plano de Estudos Discente","descricao":"Planejamento e atualização do percurso acadêmico.","url":"https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/05_PLANO-DE-ESTUDOS-DISCENTE.docx"}
   ],
-  "formularios": {
-    "titulo": "Formulários do POA — arquivos editáveis",
-    "descricao": "Baixe os modelos Word em branco. Após o preenchimento, siga o fluxo institucional de assinatura e registro no SEI.",
-    "itens": [
-      {
-        "id": "ficha-encaminhamento",
-        "titulo": "01 — Ficha de Encaminhamento",
-        "descricao": "Registro de encaminhamentos para unidades ou serviços competentes.",
-        "tipo": "DOCX",
-        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/01_Ficha_de_Encaminhamento.docx"
-      },
-      {
-        "id": "relatorio-acompanhamento-02",
-        "titulo": "02 — Relatório de Acompanhamento",
-        "descricao": "Registro de atendimento e orientações da tutoria.",
-        "tipo": "DOCX",
-        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/02_Relatorio_de_Acompanhamento.docx"
-      },
-      {
-        "id": "relatorio-semestral",
-        "titulo": "03 — Relatório Semestral",
-        "descricao": "Síntese do acompanhamento realizado no semestre letivo.",
-        "tipo": "DOCX",
-        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/03_Relatorio_Semestral.docx"
-      },
-      {
-        "id": "relatorio-acompanhamento-04",
-        "titulo": "04 — Relatório de Acompanhamento",
-        "descricao": "Segundo modelo de acompanhamento disponibilizado; verificar no próprio formulário sua aplicação específica.",
-        "tipo": "DOCX",
-        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/04_Relatorio_de_Acompanhamento.docx"
-      },
-      {
-        "id": "plano-estudos",
-        "titulo": "05 — Plano de Estudos Discente",
-        "descricao": "Planejamento acadêmico construído pelo tutor com o estudante.",
-        "tipo": "DOCX",
-        "url": "https://bio.ufpr.br/biomedicina/wp-content/uploads/sites/4/2026/10/05_PLANO-DE-ESTUDOS-DISCENTE.docx"
-      }
-    ]
-  },
-  "procedimentos": {
-    "titulo": "Procedimentos de registro e acompanhamento",
-    "aviso": "O processo individual contém informações acadêmicas de acesso restrito. Observar as regras institucionais do SEI, os termos de sigilo e a minimização de dados pessoais.",
-    "etapas": [
-      {
-        "numero": 1,
-        "responsavel": "Secretaria",
-        "titulo": "Abertura do processo individual",
-        "acoes": [
-          "Identificar estudante, GRR e semestre de ingresso no acompanhamento.",
-          "Iniciar processo individual no SEI; conferir o tipo de processo disponível conforme orientações da PROGRAP/COPAE.",
-          "Configurar e conferir o acesso sigiloso e sua justificativa institucional.",
-          "Registrar número do SEI, tutor e situação em controle interno sem dados sensíveis desnecessários."
-        ]
-      },
-      {
-        "numero": 2,
-        "responsavel": "Secretaria",
-        "titulo": "Inclusão da Coordenação e da Secretaria",
-        "acoes": [
-          "Providenciar permissões de acesso às coordenadoras e à Secretaria, conforme regras do SEI.",
-          "Confirmar as permissões necessárias para consulta e tramitação dos termos."
-        ]
-      },
-      {
-        "numero": 3,
-        "responsavel": "Secretaria",
-        "titulo": "Inclusão do professor tutor",
-        "acoes": [
-          "Conferir a designação do tutor e o estudante correspondente.",
-          "Providenciar acesso autorizado ao processo individual.",
-          "Comunicar por e-mail institucional o número do SEI, os documentos e o cronograma."
-        ]
-      },
-      {
-        "numero": 4,
-        "responsavel": "Secretaria e tutor",
-        "titulo": "Termo de Confidencialidade e Sigilo do tutor",
-        "acoes": [
-          "Disponibilizar o termo ao tutor para assinatura no SEI.",
-          "Conferir assinatura e juntada ao processo."
-        ]
-      },
-      {
-        "numero": 5,
-        "responsavel": "Secretaria e estudante",
-        "titulo": "Termo de Aceite e Sigilo do estudante",
-        "acoes": [
-          "Disponibilizar o termo para assinatura eletrônica conforme procedimento institucional.",
-          "Conferir o arquivamento e registrar objetivamente eventual recusa ou desistência."
-        ]
-      },
-      {
-        "numero": 6,
-        "responsavel": "Professor tutor",
-        "titulo": "Relatório inicial e Plano de Estudos",
-        "acoes": [
-          "Agendar atendimento inicial, acolher o estudante e analisar seu percurso acadêmico conforme autorização.",
-          "Preencher relatório de acompanhamento com orientações, medidas acordadas e encaminhamentos.",
-          "Preencher o Plano de Estudos Discente.",
-          "Obter anuência e assinaturas cabíveis e inserir os registros no processo sigiloso."
-        ]
-      },
-      {
-        "numero": 7,
-        "responsavel": "Professor tutor",
-        "titulo": "Relatórios semestrais",
-        "acoes": [
-          "Registrar atendimentos e encaminhamentos ao longo do semestre, sem detalhes pessoais desnecessários.",
-          "Consolidar ao final do semestre orientações, desempenho, pendências e providências.",
-          "Inserir o relatório semestral no processo individual.",
-          "Atualizar o plano de estudos no início do semestre seguinte.",
-          "Utilizar ficha de encaminhamento e documento de retorno, quando aplicável.",
-          "A Secretaria confere a presença dos registros e atualiza o controle administrativo."
-        ]
-      },
-      {
-        "numero": 8,
-        "responsavel": "Secretaria e professor tutor",
-        "titulo": "Planejamento da grade do semestre seguinte",
-        "acoes": [
-          "Após consolidação das notas, conferir aprovações, reprovações, disciplinas não cursadas e pré-requisitos.",
-          "Preparar alternativas preliminares de grade considerando matriz, ofertas e carga horária.",
-          "Encaminhar opções ao tutor por canal institucional autorizado.",
-          "O tutor discute as opções com o estudante e registra o planejamento.",
-          "As opções não garantem matrícula ou vaga."
-        ]
-      }
-    ]
-  },
-  "faq": [
-    {
-      "pergunta": "Quem organiza o programa?",
-      "resposta": "A Comissão de Orientação Acadêmica (COA), designada pelo Colegiado do Curso."
-    },
-    {
-      "pergunta": "Onde estão os formulários?",
-      "resposta": "Na seção Formulários do POA, com cinco arquivos Word editáveis para baixar."
-    },
-    {
-      "pergunta": "Onde encontro as normas?",
-      "resposta": "Na seção Documentos, com a resolução CEPE, o regulamento específico da Biomedicina e o portal da PROGRAP."
-    },
-    {
-      "pergunta": "Quem abre e controla o processo individual?",
-      "resposta": "A Secretaria abre o processo SEI, providencia os acessos e acompanha a presença dos registros."
-    },
-    {
-      "pergunta": "Quem preenche os relatórios acadêmicos?",
-      "resposta": "O professor tutor registra o atendimento inicial, os relatórios semestrais e o plano de estudos, conforme o procedimento do POA."
-    },
-    {
-      "pergunta": "Os relatórios preenchidos ficam disponíveis publicamente?",
-      "resposta": "Não. Os registros individuais devem observar o acesso sigiloso e as regras institucionais do SEI."
-    },
-    {
-      "pergunta": "Como solicitar mudança de tutoria?",
-      "resposta": "Encaminhe solicitação por escrito à Coordenação do Curso para análise."
-    }
-  ]
+  "procedimentos":[
+    {"responsavel":"Secretaria","titulo":"1. Abrir processo individual no SEI","passos":["Conferir nome completo, GRR e semestre de ingresso no acompanhamento.","Iniciar processo individual do POA, conferindo no SEI a nomenclatura disponível conforme orientação institucional.","Verificar classificação sigilosa, justificativa e controles de acesso antes de inserir dados acadêmicos.","Registrar número SEI, estudante, GRR, data, tutor e situação em controle interno, sem dados sensíveis desnecessários."]},
+    {"responsavel":"Secretaria","titulo":"2. Incluir Coordenação e Secretaria","passos":["Providenciar acesso das coordenadoras e da Secretaria, observadas as permissões do SEI.","Confirmar a capacidade de consulta e os procedimentos de assinatura dos termos pertinentes."]},
+    {"responsavel":"Secretaria","titulo":"3. Incluir professor tutor","passos":["Conferir designação do tutor e vínculo com o estudante.","Providenciar acesso ao processo individual conforme as regras para processos sigilosos.","Comunicar por e-mail institucional o número do processo, documentos exigidos e cronograma de registros."]},
+    {"responsavel":"Secretaria / Tutor","titulo":"4. Inserir Termo de Confidencialidade e Sigilo do tutor","passos":["Disponibilizar o termo para assinatura eletrônica do professor tutor no SEI.","Conferir assinatura e juntada ao processo."]},
+    {"responsavel":"Secretaria / Estudante","titulo":"5. Inserir Termo de Aceite e Sigilo do estudante","passos":["Disponibilizar o termo para assinatura conforme procedimento institucional.","Conferir assinatura e arquivamento; registrar eventual recusa ou desistência objetivamente."]},
+    {"responsavel":"Professor tutor","titulo":"6. Realizar atendimento e inserir relatório inicial","passos":["Agendar acolhimento, escuta e análise do percurso acadêmico.","Consultar informações acadêmicas autorizadas, incluindo aprovações, reprovações, pendências, IRA e taxa de reprovação.","Preencher o Relatório de Acompanhamento e o Plano de Estudos Discente.","Colher anuência/assinaturas do estudante e tutor e inserir o relatório no processo sigiloso."]},
+    {"responsavel":"Professor tutor / Secretaria","titulo":"7. Registrar acompanhamento e relatórios semestrais","passos":["Registrar atendimentos e resultados de encaminhamentos durante o semestre, resguardando a intimidade do estudante.","Ao final do período, consolidar desempenho, orientações, pendências e providências no Relatório Semestral.","No início do semestre seguinte, atualizar o Plano de Estudos Discente.","Quando aplicável, utilizar ficha de encaminhamento e registro de retorno.","A Secretaria confere a presença dos documentos e atualiza o controle; o conteúdo pedagógico cabe ao tutor e às instâncias do POA."]},
+    {"responsavel":"Secretaria / Professor tutor","titulo":"8. Encaminhar opções de grade após o semestre","passos":["Após consolidação dos resultados, conferir aprovações, reprovações, disciplinas não cursadas e pré-requisitos.","Preparar opções preliminares de grade considerando matriz, ofertas, requisitos e carga horária.","Encaminhar ao tutor por canal institucional, respeitando as regras de acesso.","O tutor discute as alternativas com o estudante e registra o planejamento definido.","As sugestões não garantem matrícula, turma ou vaga."]}
+  ],
+  "orientacao":{"titulo":"Como buscar orientação","descricao":"Para identificar seu tutor, esclarecer dúvidas ou solicitar análise de substituição de tutoria, procure a Coordenação do Curso de Biomedicina.","url":"https://bio.ufpr.br/biomedicina/contato/","textoBotao":"Contatar a Coordenação"},
+  "faq":[{"pergunta":"Quem coordena o POA?","resposta":"A Comissão de Orientação Acadêmica (COA), designada pelo Colegiado do Curso."},{"pergunta":"Onde encontro os formulários?","resposta":"Na seção Formulários editáveis, com acesso individual a cada modelo Word."},{"pergunta":"Os relatórios preenchidos ficam públicos?","resposta":"Não. Os registros individuais devem respeitar o controle de acesso sigiloso no SEI e as regras institucionais."}]
 }
